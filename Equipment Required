@@ -1,0 +1,19 @@
+The Following Items are required to allow the use of the Arduino Sketch....
+
+Arduino - ANY Arduino I suggest the Mini Pro as this offers better battery life.
+          5V allows more voltage loss through the Sensor Cabling simplifying everything.
+
+
+DHT22 - The sketch is set for 2 but as many as you like just repeat the steps
+        for the 2 Sensors adjusting the pin numbers and names or comment out.
+        
+
+SD Interface - There are a number of these ANY SPI Version TF or SD 2Gb or Larger
+               Card Must have VALID Partition. ANY SD - Ethershield etc.
+               
+
+Battery Pack - The Mini is Very Tolerant and any power brick with 7-12V
+               or 6 * AA Batteries in a Holder Via RAW In.
+               
+               
+               
