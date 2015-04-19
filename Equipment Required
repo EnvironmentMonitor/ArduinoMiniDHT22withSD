@@ -5,7 +5,7 @@ Arduino      - ANY Arduino I suggest the Mini Pro as this offers better battery 
 
 
 DHT22        - The sketch is set for 2 but as many as you like just repeat the steps
-               for the 2 Sensors adjusting the pin numbers, it will function with 1 DHT22.
+               for the 2 Sensors adjusting the pin numbers etc., it will function with 1 DHT22.
         
 
 SD Interface - There are a number of these ANY SPI Version TF or SD 2Gb or Larger
